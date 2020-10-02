@@ -7,7 +7,7 @@ Eis aqui minhas anotações resultantes dos estudos. Não são textos detalhados
 Vale resaltar também que se trata de um conteúdo básico, uma vez que sou iniciante nos estudos dessa área. Mas caso você tenha um conhecimento maior, ficaria muito feliz se pudesse me corrigir no que precisar e agregar mais conteúdo nos meus estudos ❤️.
 Por meio do link não é possível alterar o conteúdo, apenas adicionar comentários😉.
 <ul>
-  <li>Estátistica: 
+  <li>Estatística: 
     <ul>
       <li><a href="https://www.notion.so/Estat-stica-6d52cd79a67c450287a2d60107c9be4c">Geral</a></li>
       <li><a href="https://www.notion.so/Medidas-03374c5da285420b8b75cf0f0edac023">Medidas</a></li>
