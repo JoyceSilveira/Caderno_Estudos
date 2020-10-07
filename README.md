@@ -20,7 +20,7 @@
       <li><a href="https://www.notion.so/Orienta-o-a-objetos-f4b6668edad14a97b87df759874b5754">Orientação à objetos</a></li>
       <li><a href="https://www.notion.so/Pandas-26df30e199fe40b7b0291b3df56d479c">Pandas</a></li>
       <li><a href="https://www.notion.so/NumPy-df57cae42bab481aafa9250f7581bf47">NumPy</a></li>
-      <li><a href="https://www.notion.so/Matplotlib-0546c05d35fe49de88deebecb7a32464">Matplotlib</a><li>
+      <li><a href="https://www.notion.so/Matplotlib-0546c05d35fe49de88deebecb7a32464">Matplotlib</a></li>
     </ul>
   </li>
 </ul>
